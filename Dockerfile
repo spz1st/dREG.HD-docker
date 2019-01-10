@@ -1,4 +1,4 @@
-FROM samesense/dreg-docker
+FROM spz1st/dreg-docker
 MAINTAINER Perry Evans <https://github.com/spz1st>
 
 RUN apt-get update -qqq \
